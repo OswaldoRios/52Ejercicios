@@ -8,8 +8,11 @@ package ejercicio24;
 import java.util.Scanner;
 
 /**
- *
+ * Ejercicio numero 24: Determina si un numero es primo o no
+ * 
+ * @since 13/5/2015
  * @author ozzIE
+ * @version 1.0
  */
 public class Numero24 {
     

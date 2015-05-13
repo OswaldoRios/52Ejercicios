@@ -8,8 +8,11 @@ package ejercicio23;
 import java.util.Scanner;
 
 /**
- *
+ * Ejercicio numero 23: Permite al usuario crear una matriz con numeros del 0 al 100
+ * 
+ * @since 13/5/2015
  * @author ozzIE
+ * @version 1.0
  */
 public class Numero23 {
     public static void main(String[] args) {
