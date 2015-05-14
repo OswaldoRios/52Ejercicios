@@ -10,5 +10,5 @@ package ejercicio41;
  * @author ozzIE
  */
 public class Numero41 {
-    
+      
 }
